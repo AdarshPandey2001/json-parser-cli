@@ -1,0 +1,9 @@
+{
+    "person": {
+        "name": "Alice",
+        "address": {
+            "city": "Wonderland",
+            "zip": "12345"
+        }
+    }
+}

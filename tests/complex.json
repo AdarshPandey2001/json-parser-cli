@@ -1,0 +1,17 @@
+{
+    "company": {
+        "employees": [
+            {"name": "Alice", "roles": ["manager", "developer"]},
+            {"name": "Bob", "roles": ["tester"]}
+        ],
+        "locations": {
+            "headquarters": {
+                "city": "Metropolis",
+                "address": {
+                    "street": "Main St",
+                    "number": 123
+                }
+            }
+        }
+    }
+}

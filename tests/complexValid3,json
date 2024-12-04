@@ -1,0 +1,8 @@
+{
+    "booleanTrue": true,
+    "booleanFalse": false,
+    "nullValue": null,
+    "number": 123,
+    "string": "text",
+    "array": [1, "two", null]
+}

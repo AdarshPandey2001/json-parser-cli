@@ -1,0 +1,17 @@
+{
+  "name": "json-parser-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to validate and parse JSON files",
+  "main": "cli.js",
+  "bin": {
+    "json-parser": "./cli.js"
+  },
+  "scripts": {
+    "test": "node testRunner.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.0.0"
+  }
+}
